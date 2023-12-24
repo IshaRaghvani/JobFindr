@@ -1,3 +1,4 @@
+# JobFindr
 JobFindr is a cutting-edge React Native application designed specifically for job seekers. Leveraging robust UI/UX design principles, JobFindr provides an unparalleled user experience while integrating seamlessly with RapidAPI to deliver real-time job listings. This app empowers users with up-to-date job opportunities, featuring advanced search functionalities, intricate filters, and personalized job recommendations for tailored results.
 
 # Key Features
