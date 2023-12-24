@@ -1,4 +1,8 @@
+
 # JobFindr
+![Frame 1 (3)](https://github.com/IshaRaghvani/JobFindr/assets/114795191/d6a666f3-2726-41f1-ad6c-ce7ad910c9d1)
+
+
 JobFindr is a cutting-edge React Native application designed specifically for job seekers. Leveraging robust UI/UX design principles, JobFindr provides an unparalleled user experience while integrating seamlessly with RapidAPI to deliver real-time job listings. This app empowers users with up-to-date job opportunities, featuring advanced search functionalities, intricate filters, and personalized job recommendations for tailored results.
 
 # Key Features
